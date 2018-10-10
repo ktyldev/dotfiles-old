@@ -4,6 +4,6 @@ set nonumber
 set norelativenumber
 set wrap
 
-colo darkblue
+colo desert
 
 Goyo
