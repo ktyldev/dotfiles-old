@@ -22,3 +22,9 @@ alias weather='curl -s "wttr.in/~London?0"'
 # you're not in Vim ya dummy
 alias :q=exit
 alias :wq=exit
+
+# games lol
+alias supcom='python /usr/lib/python3.7/site-packages/fafclient/src/__init__.py'
+
+/usr/bin/python "$HOME/projects/pywatts/alanwatts.py" \
+  | cowsay -f shark
