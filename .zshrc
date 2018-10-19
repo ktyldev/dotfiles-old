@@ -26,5 +26,4 @@ alias :wq=exit
 # games lol
 alias supcom='python /usr/lib/python3.7/site-packages/fafclient/src/__init__.py'
 
-/usr/bin/python "$HOME/projects/pywatts/alanwatts.py" \
-  | cowsay -f shark
+/usr/local/bin/philososhark
