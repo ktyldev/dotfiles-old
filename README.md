@@ -1,4 +1,8 @@
 # dotfiles
+
+PLS DONUT USE
+i made these when i was young(er) and stupid(er). no longer maintained. see better dots [here](https://github.com/monodokimes/dotfiles). :)
+
 just *love* configuring shit
 
 ## Installation
